@@ -1,0 +1,15 @@
+{
+  "format_version": "1.10",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "minecraft:portal_bomb_gun",
+      "is_spawnable": false,
+      "is_summonable": false
+    },
+    "components": {
+      "minecraft:item": {
+        "item": "minecraft:portal_bomb_gun"
+      }
+    }
+  }
+}

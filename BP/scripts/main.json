@@ -1,0 +1,14 @@
+{
+  "format_version": 1,
+  "events": {
+    "minecraft:entity_use_item": {
+      "event": "minecraft:entity_use_item"
+    },
+    "minecraft:entity_hurt": {
+      "event": "minecraft:entity_hurt"
+    },
+    "minecraft:projectile_hit": {
+      "event": "minecraft:projectile_hit"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+[[mods]]
+modId="bedrockaddonmod"
+version="${file.jarVersion}"
+displayName="Bedrock Addon Mod"
+credits=""
+authors=""
+description='''
+A Minecraft Bedrock Addon with Rick Prime Regenerative Injector and Portal Bomb Gun items.
+'''
+
+[[dependencies.bedrockaddonmod]]
+modId="forge"
+mandatory=true
+versionRange="[40,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.bedrockaddonmod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.18.2,1.19)"
+ordering="NONE"
+side="BOTH"

@@ -1,0 +1,13 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.portal_bomb_gun.use": {
+      "loop": false,
+      "bones": {
+        "main": {
+          "rotation": [0, 0, 0]
+        }
+      }
+    }
+  }
+}
